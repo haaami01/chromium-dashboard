@@ -1,4 +1,4 @@
-Django==1.11.29
+Django==2.2.24
 mock==3.0.5
 funcsigs
 coverage
